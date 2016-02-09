@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bibliothecareru01jaffgoog_0012.png"; bbox 0 0 3176 4860; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 628 672 1122 804">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 628 672 1122 804">
+     <span class='ocr_line' id='line_1_1' title="bbox 628 672 1122 804; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 628 672 1122 804; x_wconf 80' lang='lat' dir='ltr'><strong>BIBLIOTHECA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 318 1204 1431 1372">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 318 1204 1431 1372">
+     <span class='ocr_line' id='line_1_2' title="bbox 318 1204 1431 1372; baseline -0.001 0"><span class='ocrx_word' id='word_1_2' title='bbox 318 1205 638 1372; x_wconf 82' lang='lat' dir='ltr'>RERUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 695 1204 1431 1372; x_wconf 78' lang='lat' dir='ltr'><strong>GERMANIOARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 618 2269 1134 2402">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 618 2269 1134 2402">
+     <span class='ocr_line' id='line_1_3' title="bbox 618 2269 1134 2402; baseline 0.006 -3"><span class='ocrx_word' id='word_1_4' title='bbox 618 2305 926 2400; x_wconf 70' lang='lat' dir='ltr'>PHIHPPUs</span> <span class='ocrx_word' id='word_1_5' title='bbox 961 2269 1134 2402; x_wconf 54' lang='grc' dir='ltr'>ΜΠ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 486 3223 1267 3309">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 486 3223 1267 3309">
+     <span class='ocr_line' id='line_1_4' title="bbox 486 3223 1267 3309; baseline 0.013 -10"><span class='ocrx_word' id='word_1_6' title='bbox 486 3223 892 3304; x_wconf 86' lang='lat' dir='ltr'><strong>MONUMENTA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 937 3227 1267 3309; x_wconf 79' lang='lat' dir='ltr'>CAROLINA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1575 3347 1583 3474">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1575 3289 1584 3506">
+     <span class='ocr_line' id='line_1_5' title="bbox 1575 3347 1583 3474; baseline 0 32"><span class='ocrx_word' id='word_1_8' title='bbox 1575 3347 1583 3474; x_wconf 63' lang='lat'><strong>⁴</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 767 4071 993 4150">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 767 4071 993 4150">
+     <span class='ocr_line' id='line_1_6' title="bbox 767 4071 993 4150; baseline 0.013 -2"><span class='ocrx_word' id='word_1_9' title='bbox 767 4071 993 4150; x_wconf 87' lang='lat' dir='ltr'>BEROLINI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1592 4860">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1592 4860">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1592 4860; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1592 4860; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
